@@ -66,7 +66,7 @@ class MarketClient(object):
 
         from huobi.service.market.sub_candlestick import SubCandleStickService
         SubCandleStickService(params).subscribe(callback, error_handler, **self.__kwargs)
-
+    
     def req_candlestick(self, symbols: 'str', interval: 'CandlestickInterval', callback,
                         from_ts_second=None, end_ts_second=None, error_handler=None):
         """

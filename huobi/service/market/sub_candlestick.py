@@ -28,6 +28,3 @@ class SubCandleStickService:
                                             parse,
                                             callback,
                                             error_handler)
-
-
-

@@ -1,12 +1,16 @@
 
 # HUOBI_URL_PRO = "https://api.huobi.pro"
+# HUOBI_URL_PRO = "https://api.huobi.de.com"
 HUOBI_URL_PRO = "https://api.huobi.bo"
+# HUOBI_URL_PRO = "https://104.20.207.64"
 HUOBI_URL_VN = "https://api.huobi.vn"
 HUOBI_URL_SO = "https://api.huobi.so"
 
 
 # HUOBI_WEBSOCKET_URI_PRO = "wss://api.huobi.pro"
+# HUOBI_WEBSOCKET_URI_PRO = "wss://api.huobi.de.com"
 HUOBI_WEBSOCKET_URI_PRO = "wss://api.huobi.bo"
+# HUOBI_WEBSOCKET_URI_PRO = "wss://104.20.207.64"
 HUOBI_WEBSOCKET_URI_VN = "wss://api.huobi.vn"
 HUOBI_WEBSOCKET_URI_SO = "wss://api.huobi.so"
 
